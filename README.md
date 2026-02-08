@@ -16,6 +16,7 @@ A clean, modular, and well-documented Python package.
 
 ## Project Structure
 
+```
 my_library/
 ├── my_library/
 │ ├── init.py
@@ -25,13 +26,14 @@ my_library/
 ├── tests/
 │ └── test_library.py
 ├── README.md
+```
 
 ---
 
 ## Installation (Local Development)
 
-```bash
-git clone https://github.com/yourusername/my_library.git
+```
+git clone https://github.com/cherryaugusta/my_library-sdgla3.git
 cd my_library
 pip install -e .
 ```
